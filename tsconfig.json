@@ -14,7 +14,10 @@
       "forceConsistentCasingInFileNames": true,
       "jsx": "react",
       "jsxFactory": "jsx",
-      "downlevelIteration": true
+      "downlevelIteration": true,
+      "types": [
+        "jest"
+      ]
     },
     "include": [
       "src/**/*"
